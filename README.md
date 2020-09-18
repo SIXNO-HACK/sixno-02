@@ -8,9 +8,6 @@
 - # The installation
 - #### git clone
   https://github.com/SIXNO-HACK/sixno-02.git
-- #### cd 
-  sixno-02
-- #### chmod 
-  BotSend-message.py
-- #### python 
-  BotSend-message.py
+- #### cd sixno-02
+- #### chmod BotSend-message.py
+- #### python BotSend-message.py
