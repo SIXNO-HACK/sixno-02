@@ -1,4 +1,4 @@
-- # BotSend-message.py sy BY 🌈SIXNOTEAM
+- # BotSend-message.py  BY 🌈SIXNOTEAM
 -   # Creator: 🌈SIXNO
 +   # No update 
 - ### Discord 
